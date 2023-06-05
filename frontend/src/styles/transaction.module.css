@@ -1,0 +1,9 @@
+.transactionCard {
+  background-color: aliceblue;
+  padding: 10px;
+  margin: 25px;
+}
+
+.cardText {
+  white-space: pre-line;
+}
